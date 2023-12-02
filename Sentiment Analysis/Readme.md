@@ -2,8 +2,8 @@
 
 **Singkatnya**, meskipun dataset memiliki persentase sentimen positif yang lebih tinggi, kata-kata tertentu yang sering terkait dengan sentimen negatif seperti "turun" mungkin lebih sering muncul dalam teks. Untuk itu kami rasa pelru menambah dataset yang sudah ada
 
-https://colab.research.google.com/drive/1Y5EaSjbAG6ANbIJ_G39O1n8Rt6OJY8fA?usp=sharing
+**Tensorflow** : https://colab.research.google.com/drive/1Y5EaSjbAG6ANbIJ_G39O1n8Rt6OJY8fA?usp=sharing
 
-https://colab.research.google.com/drive/14zuwiDYMGluhQ2clMZZusEgLV_kyENYH?usp=sharing
+**Random Forest** : https://colab.research.google.com/drive/14zuwiDYMGluhQ2clMZZusEgLV_kyENYH?usp=sharing
 
 Kami juga melakukan eksplorasi dan analisis sederhana dari dataset : https://rpubs.com/hairulysin/1106651
