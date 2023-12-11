@@ -4,6 +4,6 @@
 
 **Tensorflow** : https://colab.research.google.com/drive/1Y5EaSjbAG6ANbIJ_G39O1n8Rt6OJY8fA?usp=sharing
 
-**Random Forest** : https://colab.research.google.com/drive/14zuwiDYMGluhQ2clMZZusEgLV_kyENYH?usp=sharing
+**Random Forest** : https://colab.research.google.com/drive/14zuwiDYMGluhQ2clMZZusEgLV_kyENYH?usp=sharing  
 
 Kami juga melakukan eksplorasi dan analisis sederhana dari dataset : https://rpubs.com/hairulysin/1106651
