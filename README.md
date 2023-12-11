@@ -6,4 +6,4 @@ Tim PyCuan+ (C23-FA01) mempersembahkan proyek "Finance AI". Dibuat untuk memudah
 
 **Inference for Sentiment** : https://colab.research.google.com/drive/1pP0V906RCP9fjOApY-vdoLpJ6yDnI7ZF?usp=sharing
 
-**Combined Inferenece ** : https://colab.research.google.com/drive/11PJFBoC40rZqKgtxavzySbnDemthoSt1?usp=sharing
+**Combined Inferenece** : https://colab.research.google.com/drive/11PJFBoC40rZqKgtxavzySbnDemthoSt1?usp=sharing
